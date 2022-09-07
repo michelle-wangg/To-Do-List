@@ -1,0 +1,14 @@
+{"tasks": [
+  {
+    "completion status": false,
+    "task description": "Finish CPSC 210 Homework"
+  },
+  {
+    "completion status": true,
+    "task description": "Complete WebWork 1"
+  },
+  {
+    "completion status": false,
+    "task description": "Finish watching Math Lecture"
+  }
+]}
